@@ -30,7 +30,7 @@ timings.
 
 Buzzer
 ------
-P1.24 -> Buzzer output used for medicine alert indication.
+P1.24 -> Buzz output used for medicine alert indication.
 
 -----------------------------------------------------------------------
 Software Modules
@@ -57,7 +57,7 @@ Medicine 3 -> m3Hour, m3Min, m3Sec
 
 The system supports three configurable medicine reminders.
 -----------------------------------------------------------------------
-*/
+  */
 
 #include <LPC21xx.H>
 #include "buttonControl.h"
