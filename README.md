@@ -36,9 +36,9 @@ The User Configurable Medicine Reminder System is an embedded system built using
 - 🔘 Press Switch-2 to enter configuration mode  
 - ✏️ Edit RTC time and medicine schedule using keypad  
 
-<img src="IMAGES/rtc_time_edit.png" alt="RTC Time Edit">
+<img src="IMAGES/rtc time edit.png" alt="RTC Time Edit" width="500">
 
-<img src="IMAGES/medicine_edit.png" alt="Medicine Edit">
+<img src="IMAGES/medicine_edit.png" alt="Medicine Edit" width="500">
 
 - 💾 Store data in controller memory  
 
